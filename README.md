@@ -1,2 +1,2 @@
 # Regression-Classification
-Regression to classify if the customer makes a purchase
+Regression to predict if the customer makes a purchase based on his or her age and income
